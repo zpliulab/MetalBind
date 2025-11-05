@@ -1,0 +1,27 @@
+
+#training meshes = 126
+#val meshes = 30
+#test meshes = 39
+Epoch:00, train_loss:0.097, train_auc:0.802, val_loss:0.073, val_auc:0.925, test_loss:0.023, test_auc:0.963
+saving best model...
+Epoch:01, train_loss:0.040, train_auc:0.963, val_loss:0.072, val_auc:0.937, test_loss:0.021, test_auc:0.967
+saving best model...
+Epoch:02, train_loss:0.035, train_auc:0.974, val_loss:0.062, val_auc:0.943, test_loss:0.020, test_auc:0.965
+saving best model...
+Epoch:03, train_loss:0.033, train_auc:0.980, val_loss:0.061, val_auc:0.948, test_loss:0.018, test_auc:0.973
+saving best model...
+Epoch:04, train_loss:0.029, train_auc:0.982, val_loss:0.066, val_auc:0.940, test_loss:0.017, test_auc:0.969
+Epoch:05, train_loss:0.025, train_auc:0.987, val_loss:0.068, val_auc:0.955, test_loss:0.021, test_auc:0.967
+saving best model...
+Epoch:06, train_loss:0.022, train_auc:0.989, val_loss:0.076, val_auc:0.946, test_loss:0.018, test_auc:0.968
+Epoch:07, train_loss:0.017, train_auc:0.995, val_loss:0.120, val_auc:0.939, test_loss:0.032, test_auc:0.960
+Epoch:08, train_loss:0.017, train_auc:0.993, val_loss:0.065, val_auc:0.949, test_loss:0.022, test_auc:0.959
+Epoch:09, train_loss:0.014, train_auc:0.997, val_loss:0.116, val_auc:0.947, test_loss:0.030, test_auc:0.967
+Epoch:10, train_loss:0.014, train_auc:0.994, val_loss:0.087, val_auc:0.939, test_loss:0.025, test_auc:0.958
+loading best model, changing learning rate to 0.0001000
+Epoch:11, train_loss:0.020, train_auc:0.993, val_loss:0.068, val_auc:0.954, test_loss:0.020, test_auc:0.967
+Epoch:12, train_loss:0.018, train_auc:0.994, val_loss:0.069, val_auc:0.952, test_loss:0.019, test_auc:0.966
+Epoch:13, train_loss:0.017, train_auc:0.994, val_loss:0.073, val_auc:0.948, test_loss:0.020, test_auc:0.966
+Epoch:14, train_loss:0.017, train_auc:0.995, val_loss:0.075, val_auc:0.947, test_loss:0.020, test_auc:0.965
+Epoch:15, train_loss:0.016, train_auc:0.995, val_loss:0.080, val_auc:0.944, test_loss:0.020, test_auc:0.967
+best model loaded: Dataset/result/CU/best.pth

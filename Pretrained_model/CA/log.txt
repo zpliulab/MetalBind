@@ -1,0 +1,80 @@
+
+#training meshes = 1333
+#val meshes = 332
+#test meshes = 412
+Epoch:00, train_loss:0.084, train_auc:0.822, val_loss:0.072, val_auc:0.886, test_loss:0.039, test_auc:0.901
+saving best model...
+Epoch:01, train_loss:0.068, train_auc:0.883, val_loss:0.070, val_auc:0.892, test_loss:0.036, test_auc:0.920
+saving best model...
+Epoch:02, train_loss:0.063, train_auc:0.899, val_loss:0.065, val_auc:0.905, test_loss:0.035, test_auc:0.933
+saving best model...
+Epoch:03, train_loss:0.060, train_auc:0.909, val_loss:0.063, val_auc:0.912, test_loss:0.034, test_auc:0.935
+saving best model...
+Epoch:04, train_loss:0.057, train_auc:0.915, val_loss:0.065, val_auc:0.902, test_loss:0.034, test_auc:0.923
+Epoch:05, train_loss:0.055, train_auc:0.920, val_loss:0.061, val_auc:0.909, test_loss:0.031, test_auc:0.937
+Epoch:06, train_loss:0.052, train_auc:0.925, val_loss:0.062, val_auc:0.916, test_loss:0.032, test_auc:0.941
+saving best model...
+Epoch:07, train_loss:0.050, train_auc:0.928, val_loss:0.061, val_auc:0.911, test_loss:0.032, test_auc:0.937
+Epoch:08, train_loss:0.048, train_auc:0.932, val_loss:0.060, val_auc:0.915, test_loss:0.034, test_auc:0.933
+Epoch:09, train_loss:0.046, train_auc:0.933, val_loss:0.063, val_auc:0.915, test_loss:0.032, test_auc:0.931
+Epoch:10, train_loss:0.045, train_auc:0.938, val_loss:0.059, val_auc:0.914, test_loss:0.033, test_auc:0.925
+Epoch:11, train_loss:0.043, train_auc:0.943, val_loss:0.065, val_auc:0.916, test_loss:0.033, test_auc:0.930
+saving best model...
+Epoch:12, train_loss:0.041, train_auc:0.947, val_loss:0.064, val_auc:0.914, test_loss:0.031, test_auc:0.931
+Epoch:13, train_loss:0.040, train_auc:0.948, val_loss:0.070, val_auc:0.901, test_loss:0.034, test_auc:0.919
+Epoch:14, train_loss:0.039, train_auc:0.955, val_loss:0.076, val_auc:0.914, test_loss:0.038, test_auc:0.923
+Epoch:15, train_loss:0.037, train_auc:0.956, val_loss:0.069, val_auc:0.908, test_loss:0.034, test_auc:0.919
+Epoch:16, train_loss:0.035, train_auc:0.958, val_loss:0.075, val_auc:0.901, test_loss:0.037, test_auc:0.910
+loading best model, changing learning rate to 0.0001000
+Epoch:17, train_loss:0.037, train_auc:0.957, val_loss:0.063, val_auc:0.915, test_loss:0.032, test_auc:0.930
+Epoch:18, train_loss:0.035, train_auc:0.960, val_loss:0.062, val_auc:0.914, test_loss:0.032, test_auc:0.927
+Epoch:19, train_loss:0.035, train_auc:0.961, val_loss:0.064, val_auc:0.912, test_loss:0.032, test_auc:0.925
+Epoch:20, train_loss:0.034, train_auc:0.962, val_loss:0.064, val_auc:0.910, test_loss:0.033, test_auc:0.923
+Epoch:21, train_loss:0.034, train_auc:0.964, val_loss:0.066, val_auc:0.909, test_loss:0.033, test_auc:0.922
+best model loaded: Dataset/result/CA/best.pth
+
+
+#training meshes = 1333
+#val meshes = 332
+#test meshes = 412
+Epoch:00, train_loss:0.079, train_auc:0.850, val_loss:0.066, val_auc:0.895, test_loss:0.035, test_auc:0.918
+saving best model...
+Epoch:01, train_loss:0.065, train_auc:0.895, val_loss:0.064, val_auc:0.911, test_loss:0.035, test_auc:0.932
+saving best model...
+Epoch:02, train_loss:0.059, train_auc:0.912, val_loss:0.061, val_auc:0.917, test_loss:0.032, test_auc:0.940
+saving best model...
+Epoch:03, train_loss:0.057, train_auc:0.918, val_loss:0.060, val_auc:0.923, test_loss:0.031, test_auc:0.947
+saving best model...
+Epoch:04, train_loss:0.054, train_auc:0.921, val_loss:0.057, val_auc:0.924, test_loss:0.029, test_auc:0.951
+saving best model...
+Epoch:05, train_loss:0.052, train_auc:0.928, val_loss:0.058, val_auc:0.922, test_loss:0.029, test_auc:0.948
+Epoch:06, train_loss:0.050, train_auc:0.931, val_loss:0.056, val_auc:0.930, test_loss:0.029, test_auc:0.950
+saving best model...
+Epoch:07, train_loss:0.047, train_auc:0.938, val_loss:0.062, val_auc:0.927, test_loss:0.034, test_auc:0.945
+Epoch:08, train_loss:0.045, train_auc:0.942, val_loss:0.057, val_auc:0.926, test_loss:0.030, test_auc:0.943
+Epoch:09, train_loss:0.043, train_auc:0.945, val_loss:0.059, val_auc:0.924, test_loss:0.029, test_auc:0.948
+Epoch:10, train_loss:0.041, train_auc:0.951, val_loss:0.057, val_auc:0.925, test_loss:0.031, test_auc:0.945
+Epoch:11, train_loss:0.039, train_auc:0.955, val_loss:0.064, val_auc:0.924, test_loss:0.031, test_auc:0.946
+loading best model, changing learning rate to 0.0001000
+Epoch:12, train_loss:0.043, train_auc:0.948, val_loss:0.056, val_auc:0.931, test_loss:0.028, test_auc:0.952
+saving best model...
+Epoch:13, train_loss:0.042, train_auc:0.950, val_loss:0.056, val_auc:0.931, test_loss:0.029, test_auc:0.951
+Epoch:14, train_loss:0.041, train_auc:0.951, val_loss:0.057, val_auc:0.930, test_loss:0.029, test_auc:0.949
+Epoch:15, train_loss:0.041, train_auc:0.951, val_loss:0.056, val_auc:0.931, test_loss:0.029, test_auc:0.950
+Epoch:16, train_loss:0.040, train_auc:0.953, val_loss:0.057, val_auc:0.929, test_loss:0.029, test_auc:0.948
+Epoch:17, train_loss:0.040, train_auc:0.953, val_loss:0.059, val_auc:0.930, test_loss:0.030, test_auc:0.948
+loading best model, changing learning rate to 0.0000100
+Epoch:18, train_loss:0.042, train_auc:0.950, val_loss:0.055, val_auc:0.931, test_loss:0.028, test_auc:0.952
+saving best model...
+Epoch:19, train_loss:0.042, train_auc:0.951, val_loss:0.055, val_auc:0.931, test_loss:0.028, test_auc:0.951
+Epoch:20, train_loss:0.042, train_auc:0.951, val_loss:0.056, val_auc:0.931, test_loss:0.028, test_auc:0.951
+Epoch:21, train_loss:0.041, train_auc:0.951, val_loss:0.056, val_auc:0.931, test_loss:0.029, test_auc:0.951
+Epoch:22, train_loss:0.041, train_auc:0.951, val_loss:0.055, val_auc:0.931, test_loss:0.029, test_auc:0.951
+Epoch:23, train_loss:0.041, train_auc:0.951, val_loss:0.055, val_auc:0.931, test_loss:0.029, test_auc:0.950
+loading best model, changing learning rate to 0.0000010
+Epoch:24, train_loss:0.042, train_auc:0.951, val_loss:0.055, val_auc:0.931, test_loss:0.028, test_auc:0.952
+Epoch:25, train_loss:0.042, train_auc:0.951, val_loss:0.055, val_auc:0.931, test_loss:0.028, test_auc:0.952
+Epoch:26, train_loss:0.042, train_auc:0.951, val_loss:0.055, val_auc:0.931, test_loss:0.028, test_auc:0.951
+Epoch:27, train_loss:0.042, train_auc:0.951, val_loss:0.055, val_auc:0.931, test_loss:0.028, test_auc:0.951
+Epoch:28, train_loss:0.042, train_auc:0.951, val_loss:0.055, val_auc:0.931, test_loss:0.028, test_auc:0.951
+best model loaded: Dataset/result/CA/best.pth
