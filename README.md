@@ -73,7 +73,7 @@ conda activate metalbind
 
 ### 2. Prepare PDB files and dataset directory
 
-All PDB files of 13 kinds of Metal-binding proteins and their embeddings are uploaded to (https://doi.org/10.5281/zenodo.17529681). Download the Dataset.rar, move it to MetalBind/ and then unzip. 
+All PDB files of 13 kinds of Metal-binding proteins and their embeddings are uploaded to (https://doi.org/10.5281/zenodo.17529681). Download the Dataset.zip, move it to MetalBind/ and then unzip. 
 
 ### 3. Preprocessing: build surface point clouds and features
 
